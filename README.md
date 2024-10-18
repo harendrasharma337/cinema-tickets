@@ -17,7 +17,7 @@ This repository contains the implementation of a `TicketService` for purchasing 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/ticket-service.git
+   git clone https://github.com/harendrasharma337/ticket-service.git
    cd ticket-service
    ```
 
@@ -32,11 +32,11 @@ This repository contains the implementation of a `TicketService` for purchasing 
 To manually test the ticket service, you can run the script provided:
 
 1. **Modify the test script**:
-   Update the `your_test_script.js` (or any script you've created) with the desired ticket requests.
+   Update the `ticketService.mannual.js` with the desired ticket requests.
 
 2. **Run the script**:
    ```bash
-   node your_test_script.js
+   node ticketService.mannual.js
    ```
 
 If the purchase is successful, you will see the message:
